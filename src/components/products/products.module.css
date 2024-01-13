@@ -1,0 +1,44 @@
+
+.container {
+  width: 90%;
+  min-height: 100vh;
+  margin: 70px auto 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.container .product 
+{
+    background-image: linear-gradient(to top, rgba(236, 236, 244, 0.5), rgba(208, 207, 207, 0.891));
+  width: 300px;
+  height: 300px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 6px;
+  box-shadow: 1px 1px  1px 2px  #00000067; 
+  border-radius: 7px;
+  
+  
+}
+
+.container .product img {
+  border-radius:3px ;
+    width: 270px ;
+    height: 140px;
+    object-fit:cover; 
+ }
+ 
+ .container .product btn {
+  cursor: pointer;
+  width: auto;
+  padding: 10px 50px;
+  background-color: transparent;
+  transition: 0.5s;
+  border: 1px solid orangered;
+  background-color: aqua;
+}
