@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AmitFront-end/static/css/main.14f81070.css",
-    "main.js": "/AmitFront-end/static/js/main.a57e3bf2.js",
+    "main.js": "/AmitFront-end/static/js/main.f50f42bc.js",
     "static/media/pexels-krivec-ales-547114.jpg": "/AmitFront-end/static/media/pexels-krivec-ales-547114.a5f204156cd9fe2dd3b1.jpg",
     "static/media/backgrond.jpg": "/AmitFront-end/static/media/backgrond.b9649b58088d7fa8b612.jpg",
     "index.html": "/AmitFront-end/index.html",
     "main.14f81070.css.map": "/AmitFront-end/static/css/main.14f81070.css.map",
-    "main.a57e3bf2.js.map": "/AmitFront-end/static/js/main.a57e3bf2.js.map"
+    "main.f50f42bc.js.map": "/AmitFront-end/static/js/main.f50f42bc.js.map"
   },
   "entrypoints": [
     "static/css/main.14f81070.css",
-    "static/js/main.a57e3bf2.js"
+    "static/js/main.f50f42bc.js"
   ]
 }
